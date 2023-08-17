@@ -103,7 +103,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
  5. Run the project
      - Artisan Serve -> To run the project on localhost
       ```shell
-         php artisan server
+         php artisan serve
       ```
      - NPM Dev -> Used to run the script
       ```shell
